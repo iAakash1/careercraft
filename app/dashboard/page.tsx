@@ -126,7 +126,7 @@ export default function DashboardPage() {
             <div style={{ flex: 1, minWidth: 0 }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '5px', flexWrap: 'wrap' as const }}>
                 <span style={{ fontSize: '14px', fontWeight: 600, color: '#fff', letterSpacing: '-0.01em' }}>
-                  Your Digital Twin
+                  Your Career Guru
                 </span>
                 <span style={{
                   fontSize: '11px', padding: '2px 8px', borderRadius: '20px', fontWeight: 500,

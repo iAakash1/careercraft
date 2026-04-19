@@ -4,7 +4,7 @@ import { SimProvider } from '@/components/SimProvider'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Digital Twin — Student Simulation',
+  title: 'CareerCraft — Student Simulation',
   description: 'Simulate your academic future. Configure daily habits and predict performance with fuzzy logic and AI.',
 }
 

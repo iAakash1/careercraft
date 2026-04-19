@@ -179,7 +179,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
             onMouseLeave={e => { e.currentTarget.style.background = 'transparent' }}
           >
             <div style={S.logoDot} />
-            <span style={S.logoText}>Digital Twin</span>
+            <span style={S.logoText}>CareerCraft</span>
           </Link>
 
           {/* Divider */}
@@ -229,7 +229,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
       <footer style={S.footer}>
         <div style={S.footerLeft}>
           <div style={S.footerDot} />
-          <span style={S.footerText}>© 2025 Digital Twin for Students</span>
+          <span style={S.footerText}>© 2025 CareerCraft for Students</span>
         </div>
 
         <div style={S.footerRight}>

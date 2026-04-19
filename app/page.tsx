@@ -31,7 +31,7 @@ export default function HomePage() {
             boxShadow: '0 0 8px rgba(0,112,243,0.8), 0 0 16px rgba(0,112,243,0.3)',
           }} />
           <span style={{ fontSize: '14px', fontWeight: 600, letterSpacing: '-0.02em' }}>
-            Digital Twin
+            CareerCraftß
           </span>
           <span style={{
             fontSize: '11px', padding: '2px 8px', borderRadius: '20px',
@@ -340,7 +340,7 @@ export default function HomePage() {
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
           <div style={{ width: '5px', height: '5px', borderRadius: '50%', background: '#0070f3', boxShadow: '0 0 6px rgba(0,112,243,0.6)' }} />
           <span style={{ fontSize: '12px', color: 'rgba(255,255,255,0.2)' }}>
-            Digital Twin · Student Simulation
+            CareerCraft · Student Simulation
           </span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
